@@ -1,4 +1,4 @@
-module github.com/29-fyi/29
+module github.com/29-FYI/29
 
 go 1.14
 
